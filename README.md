@@ -2,7 +2,7 @@
 
 # Demo Code for Dissecting Rails 6 course
 
-* [ x ] Rails new
+* [x] Rails new
 * [ ] File system
 * [ ] Rails server
 * [ ] Homepage with controller generator
